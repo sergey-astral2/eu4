@@ -125,7 +125,7 @@
  liguria_area:0 "Лігурія"
  liguria_area_name:0 "Лігурія"
  liguria_area_adj:0 "Лігурійськ"
- corsica_sardinia_area:1 "Західні Середземноморські острови"
+ corsica_sardinia_area:2 "Тірренські острови"
  corsica_sardinia_area_name:0 "Сардинія"
  corsica_sardinia_area_adj:0 "Сардинськ"
  sicily_area:1 "Східна Сицилія"
@@ -1016,7 +1016,7 @@
  gulf_of_guinea_area_adj:0 "Бенінськ"
  west_africa_coast_area:0 "Західно-Африканське узбережжя"
  west_africa_coast_area_name:0 "Золотий берег"
- west_africa_coast_area_adj:0 "Золот. берег"
+ west_africa_coast_area_adj:0 "Золото-берегов"
  guinea_coast_area:0 "Гвінея"
  guinea_coast_area_name:0 "Гвінея"
  guinea_coast_area_adj:0 "Гвінейськ"
@@ -2842,3 +2842,4 @@
  apacheria_area:0 "Апачерія"
  apacheria_area_adj:0 "Апачерійськ"
  apacheria_area_area:0 "Апачерія"
+ 
